@@ -67,8 +67,3 @@ http://localhost:8080
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-# Output
-```bash
-$ python3 main.py
-```
