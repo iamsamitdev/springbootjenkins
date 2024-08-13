@@ -10,7 +10,7 @@ public class HomeController {
     
     @GetMapping("/home")
     public String home() {
-        return "Welcome to the Home Page! 555";
+        return "Welcome to the Home Page! 888";
     }
 
 }
